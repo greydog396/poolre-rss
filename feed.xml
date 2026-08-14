@@ -1,500 +1,1929 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+
+<rss
+    version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/"
+>
+
     <channel>
-        <title>Pool Re Threat Publications</title>
-        <link>https://www.poolre.co.uk/threat-publications/</link>
-        <description>Latest threat publications from Pool Re</description>
-        <language>en-gb</language>
-        <lastBuildDate>Fri, 14 Aug 2026 16:39:30 +0000</lastBuildDate>
-        <ttl>1440</ttl>
+
+        <title>
+            Pool Re Threat Publications
+        </title>
+
+        <link>
+            https://www.poolre.co.uk/threat-publications/
+        </link>
+
+        <description>
+            Latest threat publications from Pool Re
+        </description>
+
+        <language>
+            en-gb
+        </language>
+
+        <lastBuildDate>
+            Fri, 14 Aug 2026 16:51:06 +0000
+        </lastBuildDate>
+
+        <ttl>
+            60
+        </ttl>
+
         
         <item>
             <title>August Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-            <description>August Monthly Terrorism Update</description>
+
+            <description>
+                August Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/08/GettyImages-2288050659-6a7c5205dc6c5-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/08/GettyImages-2288050659-6a7c5205dc6c5-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>July Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-            <description>July Monthly Terrorism Update</description>
+
+            <description>
+                July Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/07/July-MTU-2-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/07/July-MTU-2-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>June Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-            <description>June Monthly Terrorism Update</description>
+
+            <description>
+                June Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/06/June-MTU.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/06/June-MTU.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>May Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-            <description>May Monthly Terrorism Update</description>
+
+            <description>
+                May Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/05/GettyImages-2273815461-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/05/GettyImages-2273815461-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>April Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-            <description>April Monthly Terrorism Update</description>
+
+            <description>
+                April Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/04/GettyImages-2269628413-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/04/GettyImages-2269628413-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>March Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-            <description>March Monthly Terrorism Update</description>
+
+            <description>
+                March Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/03/GettyImages-2247959940-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/03/GettyImages-2247959940-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>February Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-            <description>February Monthly Terrorism Update</description>
+
+            <description>
+                February Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/02/GettyImages-2256843270-1-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/02/GettyImages-2256843270-1-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] Annual Terrorism Threat Report 2025</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-annual-terrorism-threat-report-2025/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-annual-terrorism-threat-report-2025/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-annual-terrorism-threat-report-2025/
+            </guid>
+
             <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-            <description>[Report] Annual Terrorism Threat Report 2025</description>
+
+            <description>
+                [Report] Annual Terrorism Threat Report 2025
+            </description>
+
+            
+            <enclosure
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/01/22859_Pool-Re_Annual-Threat-Report-2025_KW_V5-1-2-scaled-1.webp"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/01/22859_Pool-Re_Annual-Threat-Report-2025_KW_V5-1-2-scaled-1.webp"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>January Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-            <description>January Monthly Terrorism Update</description>
+
+            <description>
+                January Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/01/GettyImages-2253360789-3-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://poolrewpcav-aeh2dfcabkacceda.ukwest-01.azurewebsites.net/wp-content/uploads/2026/01/GettyImages-2253360789-3-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>December Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update-2/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update-2/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update-2/
+            </guid>
+
             <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-            <description>December Monthly Terrorism Update</description>
+
+            <description>
+                December Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/12/Dec-MTU-cropped.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/12/Dec-MTU-cropped.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] Islamist Terrorism in Africa and its Implications for the UK Terrorism Landscape</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-islamist-terrorism-in-africa-and-its-implications-for-the-uk-terrorism-landscape/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-islamist-terrorism-in-africa-and-its-implications-for-the-uk-terrorism-landscape/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-islamist-terrorism-in-africa-and-its-implications-for-the-uk-terrorism-landscape/
+            </guid>
+
             <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-            <description>[Report] Islamist Terrorism in Africa and its Implications for the UK Terrorism Landscape</description>
+
+            <description>
+                [Report] Islamist Terrorism in Africa and its Implications for the UK Terrorism Landscape
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/12/Daily-Life-in-Somalia.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/12/Daily-Life-in-Somalia.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] The Threat Posed to Small and Medium-Sized Enterprises (SMEs)</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-the-threat-posed-to-small-and-medium-sized-enterprises-smes/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-the-threat-posed-to-small-and-medium-sized-enterprises-smes/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-the-threat-posed-to-small-and-medium-sized-enterprises-smes/
+            </guid>
+
             <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-            <description>[Report] The Threat Posed to Small and Medium-Sized Enterprises (SMEs)</description>
+
+            <description>
+                [Report] The Threat Posed to Small and Medium-Sized Enterprises (SMEs)
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/11/Screenshot-2025-11-25-112829.png"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/11/Screenshot-2025-11-25-112829.png"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>November Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/november-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/november-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/november-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-            <description>November Monthly Terrorism Update</description>
+
+            <description>
+                November Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/11/November-image-1.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/11/November-image-1.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>October Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/october-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/october-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/october-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-            <description>October Monthly Terrorism Update</description>
+
+            <description>
+                October Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/10/October_MTU_header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/10/October_MTU_header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>September Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/september-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/september-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/september-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-            <description>September Monthly Terrorism Update</description>
+
+            <description>
+                September Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/09/September_MTU_header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/09/September_MTU_header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>August Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/august-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-            <description>August Monthly Terrorism Update</description>
+
+            <description>
+                August Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/08/August-MTU-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/08/August-MTU-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>July Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/july-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-            <description>July Monthly Terrorism Update</description>
+
+            <description>
+                July Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/07/July_MTU_header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/07/July_MTU_header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>June Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/june-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-            <description>June Monthly Terrorism Update</description>
+
+            <description>
+                June Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/06/June-MTU-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/06/June-MTU-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>The Terrorism Threat Posed to Pride Events</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/the-terrorism-threat-posed-to-pride-events/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/the-terrorism-threat-posed-to-pride-events/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/the-terrorism-threat-posed-to-pride-events/
+            </guid>
+
             <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-            <description>The Terrorism Threat Posed to Pride Events</description>
+
+            <description>
+                The Terrorism Threat Posed to Pride Events
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/05/Pride-month-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/05/Pride-month-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>May Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/may-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-            <description>May Monthly Terrorism Update</description>
+
+            <description>
+                May Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/05/May_MTU_header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/05/May_MTU_header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>April Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/april-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-            <description>April Monthly Terrorism Update</description>
+
+            <description>
+                April Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/04/April-MTU-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/04/April-MTU-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>March Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/march-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-            <description>March Monthly Terrorism Update</description>
+
+            <description>
+                March Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/03/March-MTU-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/03/March-MTU-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] The Current State of Islamist Terrorism in the UK</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-islamist-terrorism-in-the-uk/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-islamist-terrorism-in-the-uk/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-islamist-terrorism-in-the-uk/
+            </guid>
+
             <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-            <description>[Report] The Current State of Islamist Terrorism in the UK</description>
+
+            <description>
+                [Report] The Current State of Islamist Terrorism in the UK
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/03/Islamis_terrorism_web_header-67e2a4a2310c1.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/03/Islamis_terrorism_web_header-67e2a4a2310c1.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>February Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/february-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-            <description>February Monthly Terrorism Update</description>
+
+            <description>
+                February Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/02/February-MTU-header.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/02/February-MTU-header.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>January Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/january-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-            <description>January Monthly Terrorism Update</description>
+
+            <description>
+                January Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/01/MTU-Jan-banner.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/01/MTU-Jan-banner.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>2024 Annual Threat Report</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/2024-annual-threat-report/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/2024-annual-threat-report/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/2024-annual-threat-report/
+            </guid>
+
             <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-            <description>2024 Annual Threat Report</description>
+
+            <description>
+                2024 Annual Threat Report
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2025/01/COH_J3777-PR-Annual-Threat-Report-2024-C4-1-scaled-1.webp"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2025/01/COH_J3777-PR-Annual-Threat-Report-2024-C4-1-scaled-1.webp"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>December Monthly Terrorism Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/december-monthly-terrorism-update/
+            </guid>
+
             <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-            <description>December Monthly Terrorism Update</description>
+
+            <description>
+                December Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/12/MTU-December-banner.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/12/MTU-December-banner.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>November Monthly Threat Update</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/november-strategic-threat-assessment/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/november-strategic-threat-assessment/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/november-strategic-threat-assessment/
+            </guid>
+
             <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-            <description>November Monthly Threat Update</description>
+
+            <description>
+                November Monthly Threat Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/11/Israel-Gaza-MTU.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/11/Israel-Gaza-MTU.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] The Current State of Extreme Right-Wing Terrorism</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-extreme-right-wing-terrorism/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-extreme-right-wing-terrorism/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-the-current-state-of-extreme-right-wing-terrorism/
+            </guid>
+
             <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-            <description>[Report] The Current State of Extreme Right-Wing Terrorism</description>
+
+            <description>
+                [Report] The Current State of Extreme Right-Wing Terrorism
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/10/extreme-right-wing.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/10/extreme-right-wing.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Neo-Nazi with Home ‘Armoury’ Found Guilty of Terrorism Charges</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/neo-nazi-with-home-armoury-found-guilty-of-terrorism-charges/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/neo-nazi-with-home-armoury-found-guilty-of-terrorism-charges/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/neo-nazi-with-home-armoury-found-guilty-of-terrorism-charges/
+            </guid>
+
             <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-            <description>Neo-Nazi with Home ‘Armoury’ Found Guilty of Terrorism Charges</description>
+
+            <description>
+                Neo-Nazi with Home ‘Armoury’ Found Guilty of Terrorism Charges
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/09/handcuffs.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/09/handcuffs.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Conspiracy Theorist Guilty of Encouraging Terrorism</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/conspiracy-theorist-guilty-of-encouraging-terrorism/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/conspiracy-theorist-guilty-of-encouraging-terrorism/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/conspiracy-theorist-guilty-of-encouraging-terrorism/
+            </guid>
+
             <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-            <description>Conspiracy Theorist Guilty of Encouraging Terrorism</description>
+
+            <description>
+                Conspiracy Theorist Guilty of Encouraging Terrorism
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/09/Oct-MTU.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/09/Oct-MTU.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Germany Faces Increased Terrorism Threat</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/germany-faces-increased-terrorism-threat/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/germany-faces-increased-terrorism-threat/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/germany-faces-increased-terrorism-threat/
+            </guid>
+
             <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-            <description>Germany Faces Increased Terrorism Threat</description>
+
+            <description>
+                Germany Faces Increased Terrorism Threat
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/10/german-police2.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/10/german-police2.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Arson Attack at French Synagogue</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/arson-attack-at-french-synagogue/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/arson-attack-at-french-synagogue/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/arson-attack-at-french-synagogue/
+            </guid>
+
             <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-            <description>Arson Attack at French Synagogue</description>
+
+            <description>
+                Arson Attack at French Synagogue
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/fire.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/fire.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Islamic State Claim Responsibility for Festival of Diversity Attack</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/islamic-state-claim-responsibility-for-festival-of-diversity-attack/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/islamic-state-claim-responsibility-for-festival-of-diversity-attack/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/islamic-state-claim-responsibility-for-festival-of-diversity-attack/
+            </guid>
+
             <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-            <description>Islamic State Claim Responsibility for Festival of Diversity Attack</description>
+
+            <description>
+                Islamic State Claim Responsibility for Festival of Diversity Attack
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/german-police.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/german-police.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>British Army Soldier Attacked</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/british-army-soldier-attacked/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/british-army-soldier-attacked/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/british-army-soldier-attacked/
+            </guid>
+
             <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-            <description>British Army Soldier Attacked</description>
+
+            <description>
+                British Army Soldier Attacked
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/Shoulder-of-British-soldier-in-uniform.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/08/Shoulder-of-British-soldier-in-uniform.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Anjem Choudary Sentenced to Life Imprisonment</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/anjem-choudary-sentenced-to-life-imprisonment/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/anjem-choudary-sentenced-to-life-imprisonment/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/anjem-choudary-sentenced-to-life-imprisonment/
+            </guid>
+
             <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-            <description>Anjem Choudary Sentenced to Life Imprisonment</description>
+
+            <description>
+                Anjem Choudary Sentenced to Life Imprisonment
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/prison-guard-locking-cell-door.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/prison-guard-locking-cell-door.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>School Student Given Youth Rehabilitation Order</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/student-sentenced-over-extreme-right-wing-material/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/student-sentenced-over-extreme-right-wing-material/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/student-sentenced-over-extreme-right-wing-material/
+            </guid>
+
             <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-            <description>School Student Given Youth Rehabilitation Order</description>
+
+            <description>
+                School Student Given Youth Rehabilitation Order
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/Man-in-hoodie-on-laptop.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/Man-in-hoodie-on-laptop.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Teenager Sentenced for Synagogue Attack Plot</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/teenager-sentenced-for-synagogue-attack-plot/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/teenager-sentenced-for-synagogue-attack-plot/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/teenager-sentenced-for-synagogue-attack-plot/
+            </guid>
+
             <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-            <description>Teenager Sentenced for Synagogue Attack Plot</description>
+
+            <description>
+                Teenager Sentenced for Synagogue Attack Plot
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/Church.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/Church.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Home Office Statistics Reveal Increase in Terrorist-Related Arrests</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/home-office-statistics-reveal-increase-in-terrorist-related-arrests/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/home-office-statistics-reveal-increase-in-terrorist-related-arrests/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/home-office-statistics-reveal-increase-in-terrorist-related-arrests/
+            </guid>
+
             <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-            <description>Home Office Statistics Reveal Increase in Terrorist-Related Arrests</description>
+
+            <description>
+                Home Office Statistics Reveal Increase in Terrorist-Related Arrests
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/police.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/police.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Individual Guilty of Hospital Terror Plot</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/individual-guilty-of-hospital-terror-plot/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/individual-guilty-of-hospital-terror-plot/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/individual-guilty-of-hospital-terror-plot/
+            </guid>
+
             <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-            <description>Individual Guilty of Hospital Terror Plot</description>
+
+            <description>
+                Individual Guilty of Hospital Terror Plot
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/St-James.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/07/St-James.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Individual Shot By Police During Arson Attack</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/individual-shot-by-police-during-arson-attack/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/individual-shot-by-police-during-arson-attack/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/individual-shot-by-police-during-arson-attack/
+            </guid>
+
             <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-            <description>Individual Shot By Police During Arson Attack</description>
+
+            <description>
+                Individual Shot By Police During Arson Attack
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-3.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-3.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Three Individuals Charged for Firearms Plot Against Jewish Community</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/three-individuals-charged-for-firearms-plot-against-jewish-community/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/three-individuals-charged-for-firearms-plot-against-jewish-community/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/three-individuals-charged-for-firearms-plot-against-jewish-community/
+            </guid>
+
             <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-            <description>Three Individuals Charged for Firearms Plot Against Jewish Community</description>
+
+            <description>
+                Three Individuals Charged for Firearms Plot Against Jewish Community
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-1.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-1.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>14-Year-Old Arrested for Terrorism Offence</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/14-year-old-arrested-for-terrorism-offence/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/14-year-old-arrested-for-terrorism-offence/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/14-year-old-arrested-for-terrorism-offence/
+            </guid>
+
             <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-            <description>14-Year-Old Arrested for Terrorism Offence</description>
+
+            <description>
+                14-Year-Old Arrested for Terrorism Offence
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-2.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/06/MTU-JUNE-2.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>[Report] Terrorist Exploitation of Artificial Intelligence: Current Risks and Future Applications</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/report-terrorist-exploitation-of-artificial-intelligence-current-risks-and-future-applications/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/report-terrorist-exploitation-of-artificial-intelligence-current-risks-and-future-applications/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/report-terrorist-exploitation-of-artificial-intelligence-current-risks-and-future-applications/
+            </guid>
+
             <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-            <description>[Report] Terrorist Exploitation of Artificial Intelligence: Current Risks and Future Applications</description>
+
+            <description>
+                [Report] Terrorist Exploitation of Artificial Intelligence: Current Risks and Future Applications
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_555343668-scaled.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_555343668-scaled.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Post-Incident Report: Hartlepool Bladed Weapons Attack</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/post-incident-report-hartlepool-bladed-weapons-attack/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/post-incident-report-hartlepool-bladed-weapons-attack/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/post-incident-report-hartlepool-bladed-weapons-attack/
+            </guid>
+
             <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-            <description>Post-Incident Report: Hartlepool Bladed Weapons Attack</description>
+
+            <description>
+                Post-Incident Report: Hartlepool Bladed Weapons Attack
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/05/AdobeStock_628105205-Recovered-scaled.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/05/AdobeStock_628105205-Recovered-scaled.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Terrorgram Proscribed as a Terrorist Organisation</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/terrorgram-proscribed-as-a-terrorist-organisation/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/terrorgram-proscribed-as-a-terrorist-organisation/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/terrorgram-proscribed-as-a-terrorist-organisation/
+            </guid>
+
             <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-            <description>Terrorgram Proscribed as a Terrorist Organisation</description>
+
+            <description>
+                Terrorgram Proscribed as a Terrorist Organisation
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_397664367_Editorial_Use_Only-1-copy.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_397664367_Editorial_Use_Only-1-copy.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Teenager Jailed Following Music Festival Terror Plot</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/teenager-jailed-following-music-festival-terror-plot/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/teenager-jailed-following-music-festival-terror-plot/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/teenager-jailed-following-music-festival-terror-plot/
+            </guid>
+
             <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-            <description>Teenager Jailed Following Music Festival Terror Plot</description>
+
+            <description>
+                Teenager Jailed Following Music Festival Terror Plot
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_67486452-1-copy.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_67486452-1-copy.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Terrorist Attack at Sydney Church</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/terrorist-attack-at-sydney-church/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/terrorist-attack-at-sydney-church/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/terrorist-attack-at-sydney-church/
+            </guid>
+
             <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-            <description>Terrorist Attack at Sydney Church</description>
+
+            <description>
+                Terrorist Attack at Sydney Church
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/MTU-Article-Crop-Sydney-Church.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/MTU-Article-Crop-Sydney-Church.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Stabbing Rampage at Sydney Shopping Centre</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/stabbing-rampage-at-sydney-shopping-centre/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/stabbing-rampage-at-sydney-shopping-centre/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/stabbing-rampage-at-sydney-shopping-centre/
+            </guid>
+
             <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-            <description>Stabbing Rampage at Sydney Shopping Centre</description>
+
+            <description>
+                Stabbing Rampage at Sydney Shopping Centre
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_790457629_Editorial_Use_Only-1-copy.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/AdobeStock_790457629_Editorial_Use_Only-1-copy.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Russia: Highly Likely Crocus City Hall Terrorist Attack Conducted by Islamic State</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/6000-people-attacked-at-rock-concert-in-russia/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/6000-people-attacked-at-rock-concert-in-russia/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/6000-people-attacked-at-rock-concert-in-russia/
+            </guid>
+
             <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-            <description>Russia: Highly Likely Crocus City Hall Terrorist Attack Conducted by Islamic State</description>
+
+            <description>
+                Russia: Highly Likely Crocus City Hall Terrorist Attack Conducted by Islamic State
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/03/139-Dead-in-Russia-Attack.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/03/139-Dead-in-Russia-Attack.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>UK: New Definition of Extremism Announced</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/new-definition-of-extremism-announced/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/new-definition-of-extremism-announced/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/new-definition-of-extremism-announced/
+            </guid>
+
             <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-            <description>UK: New Definition of Extremism Announced</description>
+
+            <description>
+                UK: New Definition of Extremism Announced
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/Extremism-Defined-Image.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/04/Extremism-Defined-Image.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Left-Wing Anarchist Guilty of Preparing Acts of Terrorism</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/left-wing-anarchist-guilty-of-preparing-acts-of-terrorism/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/left-wing-anarchist-guilty-of-preparing-acts-of-terrorism/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/left-wing-anarchist-guilty-of-preparing-acts-of-terrorism/
+            </guid>
+
             <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-            <description>Left-Wing Anarchist Guilty of Preparing Acts of Terrorism</description>
+
+            <description>
+                Left-Wing Anarchist Guilty of Preparing Acts of Terrorism
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-2.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-2.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Three Charged with Attack Plot Against Islamic Education Centre</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/three-charged-with-attack-plot-against-islamic-education-centre/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/three-charged-with-attack-plot-against-islamic-education-centre/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/three-charged-with-attack-plot-against-islamic-education-centre/
+            </guid>
+
             <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-            <description>Three Charged with Attack Plot Against Islamic Education Centre</description>
+
+            <description>
+                Three Charged with Attack Plot Against Islamic Education Centre
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTI-Image-1.1.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTI-Image-1.1.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>“Andrew Tate Admirer” Jailed Following University Attack Plot</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/andrew-tate-admirer-jailed-following-university-attack-plot/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/andrew-tate-admirer-jailed-following-university-attack-plot/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/andrew-tate-admirer-jailed-following-university-attack-plot/
+            </guid>
+
             <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-            <description>“Andrew Tate Admirer” Jailed Following University Attack Plot</description>
+
+            <description>
+                “Andrew Tate Admirer” Jailed Following University Attack Plot
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-4.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-4.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Islamist Terrorist Sentenced to a Minimum of Five Years in Prison</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/islamist-terrorist-sentenced-to-a-minimum-of-five-years-in-prison/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/islamist-terrorist-sentenced-to-a-minimum-of-five-years-in-prison/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/islamist-terrorist-sentenced-to-a-minimum-of-five-years-in-prison/
+            </guid>
+
             <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-            <description>Islamist Terrorist Sentenced to a Minimum of Five Years in Prison</description>
+
+            <description>
+                Islamist Terrorist Sentenced to a Minimum of Five Years in Prison
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-3.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/02/MTU-Image-3.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Home Office proscribe Hizb ut-Tahrir as a terrorist organisation</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/home-office-proscribe-hizb-ut-tahrir-as-a-terrorist-organisation/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/home-office-proscribe-hizb-ut-tahrir-as-a-terrorist-organisation/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/home-office-proscribe-hizb-ut-tahrir-as-a-terrorist-organisation/
+            </guid>
+
             <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-            <description>Home Office proscribe Hizb ut-Tahrir as a terrorist organisation</description>
+
+            <description>
+                Home Office proscribe Hizb ut-Tahrir as a terrorist organisation
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-4.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-4.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Vehicle as a Weapon and Bladed Weapons Attack in Israel</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/vehicle-as-a-weapon-and-bladed-weapons-attack-in-israel/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/vehicle-as-a-weapon-and-bladed-weapons-attack-in-israel/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/vehicle-as-a-weapon-and-bladed-weapons-attack-in-israel/
+            </guid>
+
             <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-            <description>Vehicle as a Weapon and Bladed Weapons Attack in Israel</description>
+
+            <description>
+                Vehicle as a Weapon and Bladed Weapons Attack in Israel
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-3.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-3.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Six Arrested Over Plot to Disrupt London Stock Exchange</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/six-arrested-over-plot-to-disrupt-london-stock-exchange/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/six-arrested-over-plot-to-disrupt-london-stock-exchange/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/six-arrested-over-plot-to-disrupt-london-stock-exchange/
+            </guid>
+
             <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-            <description>Six Arrested Over Plot to Disrupt London Stock Exchange</description>
+
+            <description>
+                Six Arrested Over Plot to Disrupt London Stock Exchange
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-2.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-2.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Individual Sentenced to Life in Prison for Attack Plot</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-to-life-in-prison-for-attack-plot/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-to-life-in-prison-for-attack-plot/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-to-life-in-prison-for-attack-plot/
+            </guid>
+
             <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-            <description>Individual Sentenced to Life in Prison for Attack Plot</description>
+
+            <description>
+                Individual Sentenced to Life in Prison for Attack Plot
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-1.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/Feb-mtu-1.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>UK Podcast Hosts Sentenced for Terror Offences</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/uk-podcast-hosts-sentenced-for-terror-offences/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/uk-podcast-hosts-sentenced-for-terror-offences/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/uk-podcast-hosts-sentenced-for-terror-offences/
+            </guid>
+
             <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-            <description>UK Podcast Hosts Sentenced for Terror Offences</description>
+
+            <description>
+                UK Podcast Hosts Sentenced for Terror Offences
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/jan-mtu-5.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/jan-mtu-5.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
         <item>
             <title>Individual Sentenced After Hostile Reconnaissance at Iran International UK Headquarters</title>
+
             <link>https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-after-hostile-reconnaissance-at-iran-international-uk-headquarters/</link>
-            <guid isPermaLink="true">https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-after-hostile-reconnaissance-at-iran-international-uk-headquarters/</guid>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/individual-sentenced-after-hostile-reconnaissance-at-iran-international-uk-headquarters/
+            </guid>
+
             <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-            <description>Individual Sentenced After Hostile Reconnaissance at Iran International UK Headquarters</description>
+
+            <description>
+                Individual Sentenced After Hostile Reconnaissance at Iran International UK Headquarters
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/jan-mtu-4.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/01/jan-mtu-4.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
         </item>
         
+
     </channel>
+
 </rss>
