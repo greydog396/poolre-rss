@@ -1,0 +1,48 @@
+name: Update Pool Re RSS Feed
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Scrape Pool Re
+        run: |
+          python scrape.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add feed.xml
+
+          git diff --cached --quiet || git commit -m "Update Pool Re RSS feed"
+
+          git push
