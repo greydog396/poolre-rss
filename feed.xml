@@ -24,7 +24,7 @@
         </language>
 
         <lastBuildDate>
-            Sun, 30 Aug 2026 05:22:24 +0000
+            Mon, 31 Aug 2026 05:22:14 +0000
         </lastBuildDate>
 
         <ttl>
@@ -884,6 +884,18 @@
                 November Monthly Threat Update
             </description>
 
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2024/11/Israel-Gaza-MTU.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2024/11/Israel-Gaza-MTU.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
             
 
         </item>
