@@ -24,13 +24,75 @@
         </language>
 
         <lastBuildDate>
-            Mon, 14 Sep 2026 05:28:05 +0000
+            Tue, 15 Sep 2026 10:06:22 +0000
         </lastBuildDate>
 
         <ttl>
             60
         </ttl>
 
+        
+        <item>
+            <title>September Monthly Terrorism Update</title>
+
+            <link>https://www.poolre.co.uk/terrorism-threat-publications/september-monthly-terrorism-update-3/</link>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/september-monthly-terrorism-update-3/
+            </guid>
+
+            <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+
+            <description>
+                September Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/09/GettyImages-1457137503-1024x682.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/09/GettyImages-1457137503-1024x682.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
+        </item>
+        
+        <item>
+            <title>How has the UK terrorism threat landscape changed in the last 25 years?</title>
+
+            <link>https://www.poolre.co.uk/terrorism-threat-publications/how-has-the-uk-terrorism-threat-landscape-changed-in-the-last-25-years/</link>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/how-has-the-uk-terrorism-threat-landscape-changed-in-the-last-25-years/
+            </guid>
+
+            <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+
+            <description>
+                How has the UK terrorism threat landscape changed in the last 25 years?
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/09/GettyImages-2293336547-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/09/GettyImages-2293336547-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
+        </item>
         
         <item>
             <title>August Monthly Terrorism Update</title>
