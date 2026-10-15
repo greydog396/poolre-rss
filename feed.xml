@@ -24,13 +24,44 @@
         </language>
 
         <lastBuildDate>
-            Wed, 14 Oct 2026 10:13:05 +0000
+            Thu, 15 Oct 2026 09:55:50 +0000
         </lastBuildDate>
 
         <ttl>
             60
         </ttl>
 
+        
+        <item>
+            <title>October Monthly Terrorism Update</title>
+
+            <link>https://www.poolre.co.uk/terrorism-threat-publications/october-monthly-terrorism-update-2026/</link>
+
+            <guid isPermaLink="true">
+                https://www.poolre.co.uk/terrorism-threat-publications/october-monthly-terrorism-update-2026/
+            </guid>
+
+            <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+
+            <description>
+                October Monthly Terrorism Update
+            </description>
+
+            
+            <enclosure
+                url="https://assets.poolre.co.uk/sitefiles/2026/10/GettyImages-2297522682-1024x683.jpg"
+                length="0"
+                type="image/jpeg"
+            />
+
+            <media:content
+                url="https://assets.poolre.co.uk/sitefiles/2026/10/GettyImages-2297522682-1024x683.jpg"
+                medium="image"
+                type="image/jpeg"
+            />
+            
+
+        </item>
         
         <item>
             <title>September Monthly Terrorism Update</title>
